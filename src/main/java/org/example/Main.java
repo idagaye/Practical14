@@ -9,4 +9,7 @@ public class Main {
         System.out.println("Hello");
 
     }
+    public void stuff () {
+// more comments
+    }
 }
